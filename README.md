@@ -1,4 +1,4 @@
-# Simple DevOps Project
+# Simple DevOps Project 🚀💯
 
 This project demonstrates how to create a simple DevOps pipeline to host a static portfolio website on AWS S3. The website includes an `index.html`, an `error.html`, and a `profile.jpg` file. The S3 bucket is configured to be public so that the website can be accessed by anyone on the internet.
 
